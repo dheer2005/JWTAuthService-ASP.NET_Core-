@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dhire\\source\\repos\\JWTimplementation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B508A89A-844A-41BA-8D6C-A66BC94AE75B}|JWTimplementation\\JWTimplementation.csproj|c:\\users\\dhire\\source\\repos\\jwtimplementation\\jwtimplementation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B508A89A-844A-41BA-8D6C-A66BC94AE75B}|JWTimplementation\\JWTimplementation.csproj|solutionrelative:jwtimplementation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B508A89A-844A-41BA-8D6C-A66BC94AE75B}|JWTimplementation\\JWTimplementation.csproj|c:\\users\\dhire\\source\\repos\\jwtimplementation\\jwtimplementation\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B508A89A-844A-41BA-8D6C-A66BC94AE75B}|JWTimplementation\\JWTimplementation.csproj|solutionrelative:jwtimplementation\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B508A89A-844A-41BA-8D6C-A66BC94AE75B}|JWTimplementation\\JWTimplementation.csproj|c:\\users\\dhire\\source\\repos\\jwtimplementation\\jwtimplementation\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B508A89A-844A-41BA-8D6C-A66BC94AE75B}|JWTimplementation\\JWTimplementation.csproj|solutionrelative:jwtimplementation\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B508A89A-844A-41BA-8D6C-A66BC94AE75B}|JWTimplementation\\JWTimplementation.csproj|c:\\users\\dhire\\source\\repos\\jwtimplementation\\jwtimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B508A89A-844A-41BA-8D6C-A66BC94AE75B}|JWTimplementation\\JWTimplementation.csproj|solutionrelative:jwtimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B508A89A-844A-41BA-8D6C-A66BC94AE75B}|JWTimplementation\\JWTimplementation.csproj|c:\\users\\dhire\\source\\repos\\jwtimplementation\\jwtimplementation\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B508A89A-844A-41BA-8D6C-A66BC94AE75B}|JWTimplementation\\JWTimplementation.csproj|solutionrelative:jwtimplementation\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B508A89A-844A-41BA-8D6C-A66BC94AE75B}|JWTimplementation\\JWTimplementation.csproj|c:\\users\\dhire\\source\\repos\\jwtimplementation\\jwtimplementation\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B508A89A-844A-41BA-8D6C-A66BC94AE75B}|JWTimplementation\\JWTimplementation.csproj|solutionrelative:jwtimplementation\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B508A89A-844A-41BA-8D6C-A66BC94AE75B}|JWTimplementation\\JWTimplementation.csproj|c:\\users\\dhire\\source\\repos\\jwtimplementation\\jwtimplementation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B508A89A-844A-41BA-8D6C-A66BC94AE75B}|JWTimplementation\\JWTimplementation.csproj|solutionrelative:jwtimplementation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B508A89A-844A-41BA-8D6C-A66BC94AE75B}|JWTimplementation\\JWTimplementation.csproj|c:\\users\\dhire\\source\\repos\\jwtimplementation\\jwtimplementation\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B508A89A-844A-41BA-8D6C-A66BC94AE75B}|JWTimplementation\\JWTimplementation.csproj|solutionrelative:jwtimplementation\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B508A89A-844A-41BA-8D6C-A66BC94AE75B}|JWTimplementation\\JWTimplementation.csproj|c:\\users\\dhire\\source\\repos\\jwtimplementation\\jwtimplementation\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B508A89A-844A-41BA-8D6C-A66BC94AE75B}|JWTimplementation\\JWTimplementation.csproj|solutionrelative:jwtimplementation\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B508A89A-844A-41BA-8D6C-A66BC94AE75B}|JWTimplementation\\JWTimplementation.csproj|c:\\users\\dhire\\source\\repos\\jwtimplementation\\jwtimplementation\\request models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B508A89A-844A-41BA-8D6C-A66BC94AE75B}|JWTimplementation\\JWTimplementation.csproj|solutionrelative:jwtimplementation\\request models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B508A89A-844A-41BA-8D6C-A66BC94AE75B}|JWTimplementation\\JWTimplementation.csproj|c:\\users\\dhire\\source\\repos\\jwtimplementation\\jwtimplementation\\context\\jwtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B508A89A-844A-41BA-8D6C-A66BC94AE75B}|JWTimplementation\\JWTimplementation.csproj|solutionrelative:jwtimplementation\\context\\jwtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B508A89A-844A-41BA-8D6C-A66BC94AE75B}|JWTimplementation\\JWTimplementation.csproj|c:\\users\\dhire\\source\\repos\\jwtimplementation\\jwtimplementation\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B508A89A-844A-41BA-8D6C-A66BC94AE75B}|JWTimplementation\\JWTimplementation.csproj|solutionrelative:jwtimplementation\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\JWTimplementation\\JWTimplementation\\Program.cs",
+              "RelativeDocumentMoniker": "JWTimplementation\\Program.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\JWTimplementation\\JWTimplementation\\Program.cs",
+              "RelativeToolTip": "JWTimplementation\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:34:17.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\JWTimplementation\\JWTimplementation\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "JWTimplementation\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\JWTimplementation\\JWTimplementation\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "JWTimplementation\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:34:22.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\JWTimplementation\\JWTimplementation\\appsettings.json",
+              "RelativeDocumentMoniker": "JWTimplementation\\appsettings.json",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\JWTimplementation\\JWTimplementation\\appsettings.json",
+              "RelativeToolTip": "JWTimplementation\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T05:49:20.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\JWTimplementation\\JWTimplementation\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "JWTimplementation\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\JWTimplementation\\JWTimplementation\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "JWTimplementation\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAswCUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:07:33.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\JWTimplementation\\JWTimplementation\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "JWTimplementation\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\JWTimplementation\\JWTimplementation\\Services\\AuthService.cs",
+              "RelativeToolTip": "JWTimplementation\\Services\\AuthService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAADgvzIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:07:52.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\JWTimplementation\\JWTimplementation\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JWTimplementation\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\JWTimplementation\\JWTimplementation\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JWTimplementation\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:34:46.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\JWTimplementation\\JWTimplementation\\Models\\User.cs",
+              "RelativeDocumentMoniker": "JWTimplementation\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\JWTimplementation\\JWTimplementation\\Models\\User.cs",
+              "RelativeToolTip": "JWTimplementation\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:35:59.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\JWTimplementation\\JWTimplementation\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "JWTimplementation\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\JWTimplementation\\JWTimplementation\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "JWTimplementation\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:57:11.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\JWTimplementation\\JWTimplementation\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "JWTimplementation\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\JWTimplementation\\JWTimplementation\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "JWTimplementation\\Interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:57:56.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\JWTimplementation\\JWTimplementation\\Request Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "JWTimplementation\\Request Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\JWTimplementation\\JWTimplementation\\Request Models\\LoginRequest.cs",
+              "RelativeToolTip": "JWTimplementation\\Request Models\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:05:35.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JwtContext.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\JWTimplementation\\JWTimplementation\\Context\\JwtContext.cs",
+              "RelativeDocumentMoniker": "JWTimplementation\\Context\\JwtContext.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\JWTimplementation\\JWTimplementation\\Context\\JwtContext.cs",
+              "RelativeToolTip": "JWTimplementation\\Context\\JwtContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:39:10.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\JWTimplementation\\JWTimplementation\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "JWTimplementation\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\JWTimplementation\\JWTimplementation\\Models\\Employee.cs",
+              "RelativeToolTip": "JWTimplementation\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:37:03.959Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
